@@ -2,6 +2,9 @@
  * You can create another script to handle the physics
  * With another worker thread
  * https://schteppe.github.io/cannon.js/examples/worker.html
+ * 
+ * Physijs might be a better option
+ * or Ammo.js
  */
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
